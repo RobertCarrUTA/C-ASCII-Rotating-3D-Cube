@@ -50,7 +50,7 @@ float calculateZ(int i, int j, int k)
 
 int main()
 {
-    print("\x1b[23");
+    printf("\x1b[2J");
 
     while (1)
     {
